@@ -1,0 +1,9 @@
+faiss-cpu
+pdfminer.six
+PyGithub
+requests
+numpy
+pyfiglet
+termcolor
+colorama
+python-dotenv
